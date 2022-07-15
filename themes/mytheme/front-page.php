@@ -14,7 +14,7 @@
 
 	<?php get_template_part('includes/section' ,'content');?>
 	
-	
+	<?php get_template_part('includes/latest' ,'cars');?>
 </div>
 </section>
 <?php get_footer();?>
